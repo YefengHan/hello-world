@@ -2,4 +2,4 @@
 Just another reposity
 
 Hi newflesh!
-GitHub here, I like Node.js and Coffeescript.
+GitHub here, this is my first programming in GitHub！
